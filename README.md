@@ -4,7 +4,7 @@
 
 ## FUNCTIONS:
 
-* Steam login:password bruteforce
+* Steam login:pass bruteforce
 * Steam email:pass bruteforce
 * Steam Cookie & Pass Grabber
 * Steam Mass Report
